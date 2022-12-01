@@ -2,12 +2,12 @@
 
 I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
 
-- 🔭 I’m currently working on Lingualibre and Lingualibre SignIt
-- 🌱 I’m currently learning Sign Languages
-- 👯 I’m looking to collaborate on web tech
-- 🤔 I’m looking for help with dataviz, D3, vueJS
-- 💬 Ask me about web coding languages elearning.
-- 📫 How to reach me: [via email](https://meta.wikimedia.org/wiki/Special:EmailUser/Yug)
+- 🔭 I’m currently working within Life Insurance company as Data analyst
+- 🌱 I’m currently learning about github
+- 👯 I’m looking to collaborate on Data issues especially in Qlik tech 
+- 🤔 I’m looking for help with dataviz.
+- 💬 Ask me about Qlik.
+- 📫 How to reach me: [via linkedin](https://www.linkedin.com/in/oualid-el-ali-33697b37/)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
 <p align="center">
