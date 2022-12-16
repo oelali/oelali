@@ -1,7 +1,5 @@
-### Dear developer and reader,
-
-I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
-
+### Dear  tout le monde
+I am **Oualid EL ALI**. I am  **Data Analyst** 
 - 🔭 I’m currently working within Life Insurance company as Data analyst
 - 🌱 I’m currently learning about github
 - 👯 I’m looking to collaborate on Data issues especially in Qlik tech 
@@ -15,7 +13,7 @@ I am **Hugo Pierre Lopez**. I am a **web developer & product owner**.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hugolpz" />
+  <img src="https://oelali.github.io/" />
 </p>
 
 <p align="center">
