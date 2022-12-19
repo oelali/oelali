@@ -5,7 +5,7 @@ I am **Oualid EL ALI**. I am  **Data Analyst**
 - 👯 I’m looking to collaborate on Data issues especially in Qlik tech 
 - 🤔 I’m looking for help with dataviz.
 - 💬 Ask me about Qlik.
-- 📫 How to reach me: [via linkedin](https://www.linkedin.com/in/oualid-el-ali-33697b37/) ou [via linkedin](https://oelali.github.io/)
+- 📫 How to reach me: [via linkedin](https://www.linkedin.com/in/oualid-el-ali-33697b37/) ou [via JeKyll](https://oelali.github.io/)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
 <p align="center">
